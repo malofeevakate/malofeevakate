@@ -28,7 +28,6 @@
 |   Название проекта   |   Описание проекта    |    Стек    |
 |---------------:|---------------:|---:|
 |[Исследование метрик мобильного приложения](https://github.com/malofeevakate/mobile_games_project )| Подсчет Retention и оценка результатов А/В теста | pandas, numpy, seaborn, matplotlib, tqdm, scipy|
-|[А/А-тестирование мобильного приложения](https://github.com/malofeevakate/A-A_test_research)|Подсчет результатов А/А-теста и оценка качества системы сплитования| pandas, numpy, seaborn, matplotlib, tqdm, scipy |
 |[A/B-тест приложения по доставке готовых продуктов](https://github.com/malofeevakate/AB_test_ANOWA_research)| Оценка реакции пользователей на тесты размера фото и кнопок заказа | pandas, numpy, seaborn, matplotlib, scipy, statsmodels, pingouin |
 |[Исследование оттока юзеров приложения такси](https://github.com/malofeevakate/app_taxi_research)| Предложения об улучшении сервиса на основании исследования групп водителей, наиболее подверженных "оттоку" | pandas, numpy, seaborn, matplotlib, scipy |
 |[Применение бутстрэпа на результатах A/B-теста](https://github.com/malofeevakate/bootstrap_research) | Оценка результата A/B эксперимента | pandas, numpy, seaborn, matplotlib, tqdm, scipy |
@@ -38,3 +37,4 @@
 |[Прогноз цены авто по его характеристикам LinearRegression](https://github.com/malofeevakate/car_price_linear_regression)| Построение линейной регрессии для предсказания цены автомобиля по его характеристикам (оценка MAE) | pandas, numpy, seaborn, matplotlib, sklearn |
 |[Оценка тональности отзыва на фильм LogisticRegression](https://github.com/malofeevakate/IMDB_reviews_classification)| Создание из текста набора признаков, который можно будет обработать линейной моделью | pandas, numpy, matplotlib, re, nltk, sklearn |
 |[Построение скоринговой системы RandomForest / CatboostClassifier](https://github.com/malofeevakate/scoring_system_CatBoost_RandomForest)| Задача бинарной классификации с диспропорцией классов |  pandas, numpy, seaborn, matplotlib, scipy, sklearn, catboost, optuna |
+|[А/А-тестирование мобильного приложения](https://github.com/malofeevakate/A-A_test_research)|Подсчет результатов А/А-теста и оценка качества системы сплитования| pandas, numpy, seaborn, matplotlib, tqdm, scipy |
